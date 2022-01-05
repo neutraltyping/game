@@ -1,0 +1,88 @@
+<HTML>
+<HEAD>
+<TITLE>Neutralさん作のタイピングゲームまとめ</TITLE>
+</HEAD>
+<BODY><font face="BIZ UDPゴシック"><body background="haikei.png"><p align="center"><table border=10>
+<tr>
+<th>Neutralさんが作ったタイピングゲームまとめ</th>
+<tr>
+</table></p>
+<br>
+ここでは、Neutralさんが作ったタイピングゲームをまとめています。
+<br>
+<ol id="box">
+<li><a href="#sushida">寿司打webGL版<br>(Sushida)</a></li>
+<br>
+<li><a href="#osakana">Osakana Typing<br>(Fish Typing)</a></li>
+<br>
+<li><a href="#anker3">POPタイピング<br>(POP Typing)</a></li>
+<br>
+<li><a href="#anker4">EasyタイピングwebGL版<br>(Easy Typing)</a></li>
+<br>
+<li><a href="#anker5">都道府県名当てタイピング<br>(Prefectural name guessing Typing)</a></li>
+<br>
+<li><a href="#anker6">都道府県庁所在地当てタイピング<br>(Prefectural office location guess typing)</a></li>
+<br>
+<li><a href="#anker7">A-Zタイピング<br>(A-Z Typing)</a></li>
+</ol>
+<a id="sushida"><h1>寿司打webGL版(<i>SUSHIDA</i>)</h1>
+<a href="http://typingx0.net/sushida/play.html"target="_blank"><img src="sushida.png"align="left"></a>
+<font size=5>「寿司打」をプレイするには、<br>左の画像をクリックするか<br><a href="http://typingx0.net/sushida/play.html"target="_blank">寿司打</a>
+をクリックしてください。</font>
+<br><br><br><br><br><br>
+【公式説明】
+<br>
+寿司打のwebGL移植版です。<br>流れてくるお寿司をたくさんゲットして元を取ろう。
+<br><br>
+【遊び方】
+<br>
+寿司打を起動すると、「スタート」「遊び方」「設定」があります。</a>
+<br><br>
+スタートを押すと、難易度とコースを選ぶ画面になります。
+<br>
+５つの難易度を選んだ後、３つのコースを選んでください。
+<br>
+スタートするときは、EnterキーかSpaceキーを押すとスタートします。
+<br>
+右下に「タイトル画面に戻る」と「再開する」ボタンがあります。
+<br><br>
+初期設定では、<font color="red"> <b>BGMなどの音</b></font>と
+<font color="red"><b>ローマ字表示</b></font>がON、
+<br>
+<font color="blue"> <b>フリガナ表示</b></font>と
+<font color="blue"><b>ローマ字を大文字にする</b></font>がOFFになっています。
+<br><br>
+<img src="renda-meter.png"align="right" width="285" height="38">
+寿司打には、「連打メーター」というものがあります。
+<br>
+ミスをしないで続けると、メーターがたまります。
+<br>
+メーターが一定値たまると、残り時間が追加されます。
+<br><br>
+画面に表示されているローマ字以外でも入力できます。
+<br>
+例）すし→susi,sushi
+<br>
+例）ししゃも→sisyamo,sisixyamo
+<br>
+<font color="green"><b>詳しくは、《８》のローマ字表に書いてあります。</b></font>
+<a id="osakana"><h1>Osakana Typing(<i>Fish Typing</i>)</h1>
+<a href="http://typingx0.net/osakana/"target="_blank"><img src="osakana.png"align="left"></a>
+<font size=5>「Osakana Typing」をプレイするには、<br>左の画像をクリックするか<br><a href="http://typingx0.net/osakana.html"target="_blank">Osakana Typing</a>
+をクリックしてください。</font>
+<br><br><br>
+【公式説明】
+<br>
+漢字クイズ+タイピング。「魚へん」の付く漢字の読み方を<br>当ててタイピングしよう。
+<br><br>
+【遊び方】
+<br>
+Osakana Typingを起動すると、「遊び方」「設定」があります。
+<br><br>
+初期設定では、<font color="red"> <b>SE、タイプ音、ミス音、魚・背景表示</b></font>の全てがONになっています。
+<br><br>
+<font color="red"><b>※ゲームを進めていって、背景の魚の表示が増えて動作が遅くなったときは、<br>「設定」から<font color="blue"> <b>魚・背景表示</b></font>をOFFにしてください。※</b></font>
+<br><br>
+漢字の読み方がわからないときは、「Enterキー」を押すと読み仮名が表示されます。<br>（ヒントを使うと、残り時間が5秒減ります。）
+<br><br>
+ゲーム中は、<font color="red"><b>「Command」＋「ピリオド(.)」</font></b>を押すと、タイトルに戻ります。
